@@ -16,26 +16,26 @@ Key Features of the Cricket Dashboard:
 ✅ Trend Analysis: Identify emerging trends and patterns in the game, leveraging visualizations and statistical models.
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/0994fc96-6a81-4778-8fc6-f86220a5ad47)
+![Data Model](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/226813d2-799a-480b-bf48-567f0345cc2a)
 
 ## Dashboard
 ### Power Hitters / Openers
-![1](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/81102866-4ebd-42e9-a52b-8ce31b79060e)
+![1](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/23ac141a-52ff-4de1-91a5-f2a05302bc6e)
 
 ### New Anchors / Middle Order
-![2](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/d39715c4-83c3-4c6a-8728-c80b05d959f2)
+![2](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/23f6cd86-35ed-4476-9e3a-75a166b282d5)
 
 ### New Finisher / Lower Order Anchor
-![3](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/8b605c10-3db3-47a7-aa80-369100b4fa33)
+![3](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/eca8da4c-1da0-4eb6-9f22-8ca31dbe14d6)
 
 ### New All Rounders / Lower Middle Order
-![4](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/e962e9c5-a7a2-4b5e-83b6-08739abcd1f3)
+![4](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/f60839bf-9464-4794-91dd-3b22163973de)
 
 ### New Specialist Fast Bowlers / Tail End
-![5](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/201c8d79-78d8-48db-aaf5-670c99f923f9)
+![5](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/a534b813-9d7f-4ced-94c7-15d1ed6f33f0)
 
 ### New Final 11
-![6](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/582d6e7d-6774-481f-8254-17dafc2b6dc8)
+![6](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/a791006d-71e7-431e-819d-9a4def533ec4)
 
 ## Want to create dashboard like this?
 #### [Click Here](https://www.youtube.com/watch?v=4QkYy1wANXA&t=3285s)
@@ -44,7 +44,7 @@ Key Features of the Cricket Dashboard:
 ## How to run?
 ### Clone the repository
 ```bash
-  https://github.com/harshmehta01/Cricket-Data-Analytics.git
+  https://github.com/harshmehta01/Cricket-Data-Analysis.git
 ```
 ### ... OR Create a new repository on the command line
 ```bash
@@ -52,12 +52,12 @@ Key Features of the Cricket Dashboard:
   git add README.md
   git commit -m "first commit"
   git branch -M main
-  git remote add origin https://github.com/harshmehta01/Cricket-Data-Analytics.git
+  git remote add origin https://github.com/harshmehta01/Cricket-Data-Analysis.git
   git push -u origin main
 ```
 ### ... OR Push an existing repository from the command line
 ```bash
-  git remote add origin https://github.com/harshmehta01/Cricket-Data-Analytics.git
+  git remote add origin https://github.com/harshmehta01/Cricket-Data-Analysis.git
   git branch -M main
   git push -u origin main
 ```
