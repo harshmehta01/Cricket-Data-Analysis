@@ -20,7 +20,7 @@ Key Features of the Cricket Dashboard:
 
 # Dashboard
 ### Power Hitters / Openers
-![1](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/67048ae6-7823-40f9-ab7d-b661fc0cec2d)![2](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/4b8df9e6-ea98-4b36-a71e-a0280491a2e3)
+![1](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/67048ae6-7823-40f9-ab7d-b661fc0cec2d)
 
 ### New Anchors / Middle Order
 ![2](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/4b8df9e6-ea98-4b36-a71e-a0280491a2e3)
