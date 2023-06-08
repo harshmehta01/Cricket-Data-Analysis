@@ -1,4 +1,4 @@
-# Cricket-Data-Analytics
+# Cricket-Data-Analysis
 This project involved creating a Cricket Dashboard using Power BI to visualize and analyze cricket data. The process included collecting data from reliable sources, cleaning and transforming the data using Power Query, and designing interactive visualizations using Power BI's versatile tools.
 
 Key Features of the Cricket Dashboard:
