@@ -38,21 +38,23 @@ Key Features of the Cricket Dashboard:
 ![6](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/782ca135-fbbc-4976-b208-1ff1a5800649)
 
 # How To run?
-### Steps:
-#### Clone the repository
+## Different Ways:
+### Clone the repository
 ```bash
   https://github.com/harshmehta01/Cricket-Data-Analytics.git
 ```
+### ... OR Create a new repository on the command line
 ```bash
-  npm install my-project
-  cd my-project
-``````bash
-  npm install my-project
-  cd my-project
-``````bash
-  npm install my-project
-  cd my-project
-``````bash
-  npm install my-project
-  cd my-project
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/harshmehta01/Cricket-Data-Analytics.git
+  git push -u origin main
+```
+### ... OR Push an existing repository from the command line
+```bash
+  git remote add origin https://github.com/harshmehta01/Cricket-Data-Analytics.git
+  git branch -M main
+  git push -u origin main
 ```
