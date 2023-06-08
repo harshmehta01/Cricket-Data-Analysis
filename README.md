@@ -40,7 +40,7 @@ Key Features of the Cricket Dashboard:
 # Want to create dashboard like this?
 #### Click Here https://www.youtube.com/watch?v=4QkYy1wANXA&t=3285s
 
-# How To run?
+# How to run?
 ### Clone the repository
 ```bash
   https://github.com/harshmehta01/Cricket-Data-Analytics.git
