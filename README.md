@@ -37,6 +37,9 @@ Key Features of the Cricket Dashboard:
 ### New Final 11
 ![6](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/782ca135-fbbc-4976-b208-1ff1a5800649)
 
+# Want to create dashboard like this?
+### Click Here https://www.youtube.com/watch?v=4QkYy1wANXA&t=3285s
+
 # How To run?
 ### Clone the repository
 ```bash
