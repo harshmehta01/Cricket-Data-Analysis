@@ -38,7 +38,6 @@ Key Features of the Cricket Dashboard:
 ![6](https://github.com/harshmehta01/Cricket-Data-Analytics/assets/97782632/782ca135-fbbc-4976-b208-1ff1a5800649)
 
 # How To run?
-## Different Ways:
 ### Clone the repository
 ```bash
   https://github.com/harshmehta01/Cricket-Data-Analytics.git
