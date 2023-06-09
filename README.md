@@ -16,7 +16,7 @@ Key Features of the Cricket Dashboard:
 ✅ Trend Analysis: Identify emerging trends and patterns in the game, leveraging visualizations and statistical models.
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/226813d2-799a-480b-bf48-567f0345cc2a)
+![Data Model](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/3b95e52e-3566-411b-bbdc-9728bfd189c3)
 
 ## Dashboard
 ### Power Hitters / Openers
