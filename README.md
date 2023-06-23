@@ -38,7 +38,7 @@ Key Features of the Cricket Dashboard:
 ![6](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/a791006d-71e7-431e-819d-9a4def533ec4)
 
 ## Want to create dashboard like this?
-#### [Click Here](https://www.youtube.com/watch?v=4QkYy1wANXA&t=3285s)
+#### [Refer This](https://www.youtube.com/watch?v=4QkYy1wANXA&t=3285s)
 #### [Related Projects](https://codebasics.io/resources)
 
 ## How to run?
