@@ -26,13 +26,13 @@ This project involved creating a Cricket Dashboard using Power BI to visualize a
 ![Anchors](Images/Anchors.png)
 
 ### New Finisher / Lower Order Anchor
-![Dinishers](Images/Finisher.png)
+![Finishers](Images/Finishers.png)
 
 ### New All Rounders / Lower Middle Order
 ![All Rounders](Images/AllRounders.png)
 
 ### New Specialist Fast Bowlers / Tail End
-![Specialist Fast Bowlers](Images/SpecialistFastBowlers)
+![Specialist Fast Bowlers](Images/SpecialistFastBowlers.png)
 
 ### New Final 11
 ![Final 11](Images/Final11.png)
