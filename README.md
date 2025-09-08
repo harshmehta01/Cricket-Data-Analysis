@@ -16,26 +16,26 @@ This project involved creating a Cricket Dashboard using Power BI to visualize a
 ✅ Trend Analysis: Identify emerging trends and patterns in the game, leveraging visualizations and statistical models.
 
 ## Data Model
-![Data Model](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/3b95e52e-3566-411b-bbdc-9728bfd189c3)
+![Data Model](Images/DataModel.png)
 
 ## Dashboard
 ### Power Hitters / Openers
-![1](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/23ac141a-52ff-4de1-91a5-f2a05302bc6e)
+![Power Hitters](Images/PowerHitters.png)
 
 ### New Anchors / Middle Order
-![2](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/23f6cd86-35ed-4476-9e3a-75a166b282d5)
+![Anchors](Images/Anchors.png)
 
 ### New Finisher / Lower Order Anchor
-![3](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/eca8da4c-1da0-4eb6-9f22-8ca31dbe14d6)
+![Dinishers](Images/Finisher.png)
 
 ### New All Rounders / Lower Middle Order
-![4](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/f60839bf-9464-4794-91dd-3b22163973de)
+![All Rounders](Images/AllRounders.png)
 
 ### New Specialist Fast Bowlers / Tail End
-![5](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/a534b813-9d7f-4ced-94c7-15d1ed6f33f0)
+![Specialist Fast Bowlers](Images/SpecialistFastBowlers)
 
 ### New Final 11
-![6](https://github.com/harshmehta01/Cricket-Data-Analysis/assets/97782632/a791006d-71e7-431e-819d-9a4def533ec4)
+![Final 11](Images/Final11.png)
 
 ## Want to create dashboard like this?
 #### [Refer This](https://www.youtube.com/watch?v=4QkYy1wANXA&t=3285s)
